@@ -1,3 +1,9 @@
+/*===================================================
+* Ayas Nasih - S1600655
+* IoT - Challenge 1
+* MicroBit Rock Papers Scissors Game
+=====================================================*/
+
 //#include "nkpins.h"
 #include "MicroBit.h"
 
